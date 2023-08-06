@@ -7,8 +7,6 @@ An application called Note Taker that can be used to write and save notes. This 
 * [Usage](#usage)
 * [Installation](#installation)
 * [Credits](#credits)
-* [License](#license)
-* [Creator](#creator)
 
 
 ## User Story
@@ -33,15 +31,16 @@ An application called Note Taker that can be used to write and save notes. This 
 > THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column <br>
 
 ## Usage
+![alt text]()
+![alt text]()
+
 ## Installation
-1. Install node.js (npm i)
-2. Run application with CLI (node server.js)
+1. Clone starter code from github repository
+2. Install node.js (npm i)
+3. Run application with CLI (node server.js)
 
 ## Credits
-None
+Original code can be found from the following github repository:
+https://github.com/coding-boot-camp/miniature-eureka
 
-## License
-None
-
-## Creator
 

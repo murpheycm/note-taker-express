@@ -10,12 +10,17 @@ const PORT = process.env.PORT || 3001;
 
 //Parse data from the express server application
 app.use(express.urlencoded({ extended: true }));
+app.use(express.static('public'));
 app.use(express.json());
 
 
-//Connecting to the routes js files
-require('./routes/api-routes.js');
-require('./routes/html-routes.js');
+
+
+//Links to js files for api and html routes
+require("./routes/html-routes")(app);
+require("./routes/api-routes")(app);
+
+
 
 //Listening for the server on port
 app.listen(PORT, function() {

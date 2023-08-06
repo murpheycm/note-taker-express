@@ -34,6 +34,14 @@ An application called Note Taker that can be used to write and save notes. This 
 
 ## Usage
 ## Installation
+1. Install node.js (npm i)
+2. Run application with CLI (node server.js)
+
 ## Credits
+None
+
 ## License
+None
+
 ## Creator
+

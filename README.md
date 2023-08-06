@@ -31,8 +31,9 @@ An application called Note Taker that can be used to write and save notes. This 
 > THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column <br>
 
 ## Usage
-![alt text]()
-![alt text]()
+Link to Video Example:
+![alt text](./public/page1.jpg)
+![alt text](./public/page2.jpg)
 
 ## Installation
 1. Clone starter code from github repository

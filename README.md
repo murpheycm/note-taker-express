@@ -31,7 +31,7 @@ An application called Note Taker that can be used to write and save notes. This 
 > THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column <br>
 
 ## Usage
-Link to Video Example:
+Link to Video Example: https://www.youtube.com/watch?v=6K7Fe9UpYIM
 ![alt text](./public/page1.jpg)
 ![alt text](./public/page2.jpg)
 

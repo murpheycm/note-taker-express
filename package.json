@@ -17,5 +17,6 @@
     "path": "^0.12.7",
     "uniqid": "^5.4.0",
     "uuid": "^9.0.0"
-  }
+  },
+  "proxy": "http://localhost:8080"
 }
